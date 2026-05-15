@@ -1,1 +1,1 @@
-print("Hi from my first projekt!")
+print("Hi from my first projekt! training on Git and GitHub"
